@@ -134,17 +134,17 @@ $(document).ready(function () {
       if (hSalam < 11) {
         ucapanSalam = "Selamat Pagi Nopa"
         kata1 = "Jangan lupa sarapan biar pipina embem";
-        kata2 = "Semoga hari ini jadi hari yang terbaik ya :3<i class='fa fa-heart'></i>";
+        kata2 = "Semoga hari ini jadi hari yang terbaik ya :3 <i class='fa fa-heart'></i>";
       } else {
         if (hSalam < 16) {
           ucapanSalam = "Selamat Siang Nopa"
           kata1 = "Jangan lupa makan siang jg bos";
-          kata2 = "Jangan lupa shalat dzuhur jga :3<i class='fa fa-heart'></i>";
+          kata2 = "Jangan lupa shalat dzuhur jga :3 <i class='fa fa-heart'></i>";
         } else {
           if (hSalam < 20) {
             ucapanSalam = "Selamat Sore Nopa"
             kata1 = "udh tau sorekan? mandi la sekalian pap buat aku :>";
-            kata2 = "Jangan lupa shalat ashar juga :3<i class='fa fa-heart'></i>";
+            kata2 = "Jangan lupa shalat ashar juga :3 <i class='fa fa-heart'></i>";
           } else {
               ucapanSalam = "Selamat Malam Nopa"
               kata1 = "Jangan tidur malem-malem";
